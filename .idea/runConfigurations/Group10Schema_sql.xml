@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Group10Schema.sql" type="DatabaseScript" editBeforeRun="true" focusToolWindowBeforeRun="true" singleton="false" nameIsGenerated="true">
+    <script-file value="$PROJECT_DIR$/Group37Schema.sql" />
+    <script-mode>FILE</script-mode>
+    <data-source id="7a9c061f-98b7-44c3-8745-a1657d34a019" />
+    <method v="2" />
+  </configuration>
+</component>
